@@ -5,3 +5,9 @@ http://super-iptv.live:1795/butrus/butrus/42847
 http://super-iptv.live:1795/butrus/butrus/42836
 #EXTINF:0,USA: Cinemax Moremax HD
 http://super-iptv.live:1795/butrus/butrus/42816
+#EXTINF:0,1+1 .
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/oneplusone/oneplusone.m3u8
+#EXTINF:0,2+2
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/twoplustwo/twoplustwo.m3u8
+#EXTINF:0,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
